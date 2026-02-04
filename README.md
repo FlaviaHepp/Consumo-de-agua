@@ -72,26 +72,18 @@ El objetivo principal es analizar patrones de consumo por **industria, fuente de
 ---
 
 📌 Principales aprendizajes
-
 - Aplicación práctica de EDA en un dataset real
-
 - Uso combinado de Python + SQL para análisis de datos
-
 - Creación de visualizaciones claras para comunicar resultados
-
 - Trabajo con datos públicos y estructurados por múltiples dimensiones
 
 🚀 Próximos pasos / mejoras futuras
-
 - Normalizar el consumo de agua por población
-
 - Incorporar variables climáticas o económicas
-
 - Crear un dashboard interactivo (Power BI / Tableau / Streamlit)
-
 - Modularizar el código en funciones reutilizables
 
 👤 Autor
 
 Flavia Hepp
-Data Analyst Junior
+Data Analyst 
