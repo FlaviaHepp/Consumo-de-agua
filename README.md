@@ -71,37 +71,25 @@ El objetivo principal es analizar patrones de consumo por **industria, fuente de
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
-
-1. Clonar el repositorio
-2. Instalar las dependencias:
-   ```bash
-   pip install pandas matplotlib seaborn scikit-learn pandasql
-
-
-Ejecutar el script:
-
-python Uso del agua en Michigan, EEUU por indústria (2013-2022).py
-
 📌 Principales aprendizajes
 
-Aplicación práctica de EDA en un dataset real
+- Aplicación práctica de EDA en un dataset real
 
-Uso combinado de Python + SQL para análisis de datos
+- Uso combinado de Python + SQL para análisis de datos
 
-Creación de visualizaciones claras para comunicar resultados
+- Creación de visualizaciones claras para comunicar resultados
 
-Trabajo con datos públicos y estructurados por múltiples dimensiones
+- Trabajo con datos públicos y estructurados por múltiples dimensiones
 
 🚀 Próximos pasos / mejoras futuras
 
-Normalizar el consumo de agua por población
+- Normalizar el consumo de agua por población
 
-Incorporar variables climáticas o económicas
+- Incorporar variables climáticas o económicas
 
-Crear un dashboard interactivo (Power BI / Tableau / Streamlit)
+- Crear un dashboard interactivo (Power BI / Tableau / Streamlit)
 
-Modularizar el código en funciones reutilizables
+- Modularizar el código en funciones reutilizables
 
 👤 Autor
 
