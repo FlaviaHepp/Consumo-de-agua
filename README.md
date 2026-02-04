@@ -1,4 +1,4 @@
-# Análisis del uso del agua en Michigan (2013–2022)
+# 💧Análisis del uso del agua en Michigan (2013–2022)
 
 Proyecto de **análisis exploratorio de datos (EDA)** enfocado en el uso del agua en el estado de Michigan, Estados Unidos, entre 2013 y 2022.  
 El objetivo principal es analizar patrones de consumo por **industria, fuente de agua, año y condado**, utilizando Python y librerías de análisis de datos.
